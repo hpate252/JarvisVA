@@ -9,11 +9,10 @@ JarvisVA is a virtual assistant project that can handle voice commands and help 
 
 ## Tech Stack
 - Python 3.12.5
-- (libraries used, e.g., `speech_recognition`, `pyttsx3`, etc.)
+- libraries used, e.g., `speech_recognition`, `pyttsx3`, etc.
 
 ## Setup
 
 ```bash
 git clone https://github.com/hpate252/JarvisVA.git
 cd JarvisVA
-
